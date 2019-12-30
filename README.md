@@ -1,2 +1,2 @@
-# simple-system
-Implementations of simplified operating systems concepts in C++
+# Simplified Operating System
+Four components of a standard operating system are implemented: Linking, CPU(Process) Scheduling, Virtual Memory Management, I/O scheduling (disk). Due to the complexity of a real operating system all of these concepts are simplified to provide my own personal understanding at the cost of its functionality. 
